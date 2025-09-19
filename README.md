@@ -7,7 +7,5 @@ See `Dockerfile` for more details
 Referenced in:
 - [Docker Deep Dive][1] 
 
-**The app is maintained approximately once per year so may contain vulnerbilities.**
+**The app is only for practice in local**
 
-
-[1]:	https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton/dp/1521822808/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=# nodeJSwDockerFile
